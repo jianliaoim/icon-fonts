@@ -111,7 +111,7 @@
 .icon-plus-sign:before {content: "\e133";}
 .icon-search:before {content: "\e134";}
 
-.icon-article-stroke:before {content: "\e135";} // a stroke
+.icon-article-stroke:before {content: "\e135";} /* a stroke */
 .icon-circle-warning:before {content: "\f185";}
 .icon-review:before {content: "\e137";}
 .icon-voice:before {content: "\e138";}
