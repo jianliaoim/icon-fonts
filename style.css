@@ -1,0 +1,38 @@
+
+body {
+    font-family: HelveticaNeue-Light;
+}
+
+body * {}
+
+.bs-docs-section {
+    margin: 80px 200px;
+}
+
+.bs-glyphicons-list {}
+
+.bs-glyphicons-list .copy {
+    list-style: none;
+    line-height: 2em;
+    display: inline-block;
+    width: 300px;
+    padding: 20px 0;
+    text-align: left;
+}
+
+.bs-glyphicons-list .icon {
+    font-size: 20px;
+    margin-right: 0.5em;
+    vertical-align: middle;
+}
+
+.glyphicon-class {
+    cursor: pointer;
+    padding: 5px 17px;
+    background-color: #F5EAFF;
+    display: inline-block;
+}
+
+span.glyphicon-class:hover {
+    background: #BB8DFF;
+}
