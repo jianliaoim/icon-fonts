@@ -15,9 +15,12 @@ body * {}
     list-style: none;
     line-height: 2em;
     display: inline-block;
-    width: 300px;
     padding: 20px 0;
     text-align: left;
+    background-color: #E9EEFF;
+    margin-right: 20px;
+    margin-bottom: 12px;
+    padding: 0 20px;
 }
 
 .bs-glyphicons-list .icon {
@@ -29,10 +32,6 @@ body * {}
 .glyphicon-class {
     cursor: pointer;
     padding: 5px 17px;
-    background-color: #F5EAFF;
     display: inline-block;
-}
-
-span.glyphicon-class:hover {
-    background: #BB8DFF;
+    width: 200px;
 }
