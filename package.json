@@ -1,0 +1,15 @@
+{
+  "name": "icon-fonts",
+  "version": "0.59.0",
+  "description": "Standalone icon fonts from TB-UI ----",
+  "main": "teambition-ui-icons.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@code.teambition.com:talk/icon-fonts.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
