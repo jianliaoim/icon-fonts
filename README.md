@@ -2,6 +2,8 @@
 Standalone icon fonts from TB-UI
 ----
 
+Page http://ui.talk.ai/icon-fonts/
+
 ### TODO
 
 Render icons fonts in Canvas and get images back.
@@ -13,3 +15,6 @@ New API available in Chrome 43:
 
 https://developers.google.com/web/updates/2015/04/cut-and-copy-commands?hl=en
 
+### License
+
+Undecided.

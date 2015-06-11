@@ -11,5 +11,10 @@
     "url": "git@code.teambition.com:talk/icon-fonts.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.9.0",
+    "rsyncwrapper": "^0.4.3"
+  }
 }
