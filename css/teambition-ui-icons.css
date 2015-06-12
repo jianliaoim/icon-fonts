@@ -12,11 +12,11 @@
 
 @font-face {
   font-family: 'Teambition-UI-Icons';
-  src: url('./fonts/teambition-ui-icons.eot');
-  src: url('./fonts/teambition-ui-icons.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/teambition-ui-icons.woff') format('woff'),
-       url('./fonts/teambition-ui-icons.ttf') format('truetype'),
-       url('./fonts/teambition-ui-icons.svg#@{teambition-ui-icon-font-svg-id}') format('svg');
+  src: url('../fonts/teambition-ui-icons.eot');
+  src: url('../fonts/teambition-ui-icons.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/teambition-ui-icons.woff') format('woff'),
+       url('../fonts/teambition-ui-icons.ttf') format('truetype'),
+       url('../fonts/teambition-ui-icons.svg#@{teambition-ui-icon-font-svg-id}') format('svg');
   font-weight: normal;
   font-style: normal;
 }

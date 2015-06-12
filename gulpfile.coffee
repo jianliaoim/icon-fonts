@@ -6,8 +6,7 @@ gulp.task 'rsync', (cb) ->
   rsyncwrapper.rsync
     ssh: true
     src: [
-      'index.html', 'copy.js', 'style.css', 'fonts'
-      'teambition-ui-icons.css'
+      'index.html', 'js', 'css', 'fonts'
     ]
     recursive: true
     args: ['--verbose']
