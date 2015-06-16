@@ -185,6 +185,8 @@
 
 .icon-dropbox:before {content: "\f11a";}
 .icon-unlock:before {content: "\f11d";}
+.icon-mail:before {content: "\f194";}
+.icon-qrcode:before {content: "\f195";}
 
 /* Social */
 .icon-qq:before {content: "\f129";}
@@ -202,6 +204,7 @@
 /* Bookkeepking */
 .icon-expense:before,
 .icon-bookkeeping:before {content: "\e112";}
+.icon-bookkeeping-logo:before {content: "\f188";}
 .icon-income:before {content: "\e113";}
 .icon-normal:before {content: "\f145";}
 .icon-meal:before {content: "\f146";}
@@ -240,6 +243,8 @@
 .icon-collection:before {content: "\f16c";}
 .icon-members:before {content: "\f14f";}
 .icon-mute:before {content: "\f191";}
+.icon-sharp-down:before {content: "\f192";}
+.icon-sharp-up:before {content: "\f193";}
 
 /* Community */
 .icon-post:before {content: "\f151";}
@@ -251,7 +256,8 @@
 
 /* ==== Old: deprecated ==== */
 .icon-user-bold:before {content: "\f001";}
-.icon-add-user-bold:before {content: "\f002";}
+.icon-add-user-bold:before,
+.icon-add-user-stroke:before {content: "\f002";}
 .icon-users-bold:before {content: "\f003";}
 .icon-library:before,
 .icon-folder-bold:before,
