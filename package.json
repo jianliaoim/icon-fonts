@@ -1,5 +1,5 @@
 {
-  "name": "icon-fonts",
+  "name": "teambition-icon-fonts",
   "version": "0.72.1",
   "description": "Standalone icon fonts from TB-UI ----",
   "main": "css/teambition-ui-icons.css",
@@ -10,11 +10,12 @@
     "type": "git",
     "url": "git@code.teambition.com:talk/icon-fonts.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Teambition",
+  "license": "MIT",
   "devDependencies": {
     "coffee-script": "^1.9.3",
     "gulp": "^3.9.0",
     "rsyncwrapper": "^0.4.3"
-  }
+  },
+  "dependencies": {}
 }
