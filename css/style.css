@@ -24,6 +24,10 @@ body * {}
     padding: 0 20px;
 }
 
+.bs-glyphicons-list .copy:hover {
+    background-color: rgba(233, 238, 255, 0.4);
+}
+
 .bs-glyphicons-list .icon {
     font-size: 20px;
     margin-right: 0.5em;
@@ -32,7 +36,12 @@ body * {}
 
 .glyphicon-class {
     cursor: pointer;
-    padding: 5px 17px;
+    padding: 5px 0;
     display: inline-block;
     width: 200px;
+}
+
+.tbicons-github-link{
+    text-decoration: none;
+    color: #7580b2;
 }
