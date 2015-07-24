@@ -193,8 +193,10 @@
 .icon-qrcode:before {content: "\f195";}
 .icon-dashed-right:before {content: "\f19b";}
 .icon-intelligence:before {content: "\f19c";}
+.icon-globe:before {content: "\f19d";}
 .icon-favorite:before {content: "\f19e";}
 .icon-talkai:before {content: "\f19f";}
+.icon-file-update:before {content: "\f1a1";}
 
 /* Social */
 .icon-qq:before {content: "\f129";}
