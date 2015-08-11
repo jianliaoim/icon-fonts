@@ -127,6 +127,7 @@
 .icon-create-post:before {content: "\e141";}
 .icon-import-project:before {content: "\e142";}
 .icon-archive:before {content: "\e143";}
+.icon-unarchive:before {content: "\f1a5";}
 .icon-put-back:before {content: "\e144";}
 .icon-emoji:before {content: "\f142";}
 .icon-at:before {content: "\e146";}
