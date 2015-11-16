@@ -1,6 +1,6 @@
 {
   "name": "teambition-icon-fonts",
-  "version": "0.72.11",
+  "version": "0.72.12",
   "description": "Standalone icon fonts from TB-UI ----",
   "main": "css/teambition-ui-icons.css",
   "scripts": {
